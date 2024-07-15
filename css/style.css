@@ -1,0 +1,25 @@
+body {
+  background-color: #EFD2BC;
+}
+h1 {
+color: #262A2C;
+text-align: center;
+}
+p {
+   color: #2C7BBC;
+   font-weight: bold;
+}
+.contact {
+  list-style-type: none;
+}
+.contact li{
+  font-weight: bold;
+}
+.text {
+  font-style: italic;
+  font-weight: normal;
+}
+.box {
+  display: flex;
+  flex-direction: row;
+}
